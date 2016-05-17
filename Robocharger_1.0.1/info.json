@@ -1,0 +1,8 @@
+{
+  "name": "Robocharger",
+  "version": "1.0.1",
+  "title": "Robocharger",
+  "author": "Smurph",
+  "dependencies": ["base >= 0.11.8"],
+  "description": "By combining a Roboport, Big electric pole, and random scraps of Iron and Copper, you can form a charge port that can charge 10 robots simultaneously. Does not store robots or repair packs. Nor does it have a construction or logistics radius."
+}
