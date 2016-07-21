@@ -1,8 +1,10 @@
 {
   "name": "Robocharger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Robocharger",
-  "author": "Smurph",
-  "dependencies": ["base >= 0.11.8"],
+  "author": "Smurph", 
+  "homepage": "https://github.com/smurph/Robocharger/",
+  "dependencies": [],
+  "factorio_version": "0.13",
   "description": "By combining a Roboport, Big electric pole, and random scraps of Iron and Copper, you can form a charge port that can charge 10 robots simultaneously. Does not store robots or repair packs. Nor does it have a construction or logistics radius."
 }
