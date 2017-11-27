@@ -6,9 +6,9 @@ data:extend({
 		ingredients = 
 		{
 			{"steel-plate", 35},
-			{"iron-gear-wheel", 35},
+			{"iron-gear-wheel", 30},
 			{"advanced-circuit", 35},
-			{"battery", 45}
+			{"battery", 40}
 		},
 		result = "robocharger"
 	}
