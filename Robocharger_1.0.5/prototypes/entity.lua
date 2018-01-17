@@ -3,6 +3,7 @@ data:extend({
 		type = "roboport",
 		name = "robocharger",
 		icon = "__Robocharger__/graphics/icons/robot-charge-port.png",
+		icon_size = 32,
 		flags = {"placeable-player", "player-creation"},
 		minable = {hardness = 0.2, mining_time = 0.5, result = "robocharger"},
 		max_health = 400,
