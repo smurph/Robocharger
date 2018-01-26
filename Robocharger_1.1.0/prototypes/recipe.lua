@@ -2,7 +2,7 @@ data:extend({
 	{
 		type = "recipe",
 		name = "robocharger",
-		enabled = "true",
+		enabled = false,
 		ingredients = 
 		{
 			{"steel-plate", 35},
