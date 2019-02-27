@@ -48,8 +48,8 @@ data:extend({
 		{
 		  filename = "__Robocharger__/graphics/entity/robot-charge-port.png",
 		  priority = "medium",
-		  width = 0,
-		  height = 0,
+		  width = 1,
+		  height = 1,
 		  frame_count = 1,
 		  shift = {0, 0}
 		},
@@ -67,8 +67,8 @@ data:extend({
 		{
 		  filename = "__Robocharger__/graphics/entity/robot-charge-port.png",
 		  priority = "medium",
-		  width = 0,
-		  height = 0,
+		  width = 1,
+		  height = 1,
 		  frame_count = 1,
 		  shift = {0, 0}
 		},
@@ -76,8 +76,8 @@ data:extend({
 		{
 		  filename = "__Robocharger__/graphics/entity/robot-charge-port.png",
 		  priority = "medium",
-		  width = 0,
-		  height = 0,
+		  width = 1,
+		  height = 1,
 		  frame_count = 1,
 		  shift = {0, 0}
 		},
