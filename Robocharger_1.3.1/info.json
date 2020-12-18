@@ -1,10 +1,10 @@
 {
   "name": "Robocharger",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "title": "Robocharger",
   "author": "Smurph", 
   "homepage": "https://github.com/smurph/Robocharger/",
   "dependencies": [],
-  "factorio_version": "1.0",
+  "factorio_version": "1.1",
   "description": "A charge port that can charge 10 robots simultaneously. Does not store robots or repair packs. Nor does it have a construction or logistics radius."
 }
